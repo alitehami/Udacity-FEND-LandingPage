@@ -12,7 +12,7 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
-##My implementation contained feaw interactive features:
+## My implementation contained feaw interactive features:
 - Auto Generated Navigation bar
 - Support of Adding new Sections to the document by an + button in the Navigation Bar
 - Highlights of the Viewable section in the Nav Bar and on the section content containers backgrounds
